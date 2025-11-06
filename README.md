@@ -102,12 +102,15 @@
 ---
 
 <<<<<<< HEAD
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer&animation=twinkling" />
   
   <p><b>⭐ From <a href="https://github.com/TalhaRana01">Talha Rana</a> with 💙</b></p>
 </div>
 =======
+=======
+>>>>>>> parent of c20aae7 (update code)
 <p align="center">
   ⭐️ <b>“Building the Future with AI & Automation”</b> 🚀  
 </p>
@@ -120,5 +123,5 @@
 
 <!-- 🟢 Animated Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" />
->>>>>>> parent of c20aae7 (update code)
+
 
