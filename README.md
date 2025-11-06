@@ -12,7 +12,7 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-talha-rana/)
   [![Upwork](https://img.shields.io/badge/Upwork-Hire_Me-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~yourupworkid)
   [![Fiverr](https://img.shields.io/badge/Fiverr-Order_Now-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/talharana)
-  [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:talharana.dev@gmail.com)
+  [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mtalharana093@gmail.com)
   
   ![Profile Views](https://komarev.com/ghpvc/?username=TalhaRana01&label=Profile%20Views&color=36BCF7&style=for-the-badge)
 
